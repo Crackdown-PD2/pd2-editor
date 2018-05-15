@@ -1,0 +1,8 @@
+{
+	"name": "Editor",
+	"description": "Random testing stuff",
+	"author": "ZNix",
+	"contact": "znix@znix.xyz",
+	"version": "1.0",
+	"blt_version": 2
+}
